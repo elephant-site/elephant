@@ -1,4 +1,4 @@
-# <p><img src="img/3.png" width="5%"/> Elephant V1.0.2019 
+# <p><img src="img/3.png" width="10%"/> Elephant 
 
  
 ## Copyright and License
