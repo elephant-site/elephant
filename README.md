@@ -1,22 +1,5 @@
-# Elephant <p><img src="img/3.png" width="5%"/>
-AppCASE-4Blind V1.0.2018
-App native Android.
-  
-A tool to facilitate the teaching-learning process of Directed Graphs, aimed at blind people.
-
-<p><img src="screenshot/PantallaPrincipal.png" width="20%"/>
-<img src="screenshot/galaxys5portblack.png" width="13%"/></p>
-
-## Usage
-
-### Basic Usage
-
-### Advanced Usage
-
-## Bugs and Issues
-
-## Custom Builds
-
+# <p><img src="img/3.png" width="25%"/> Elephant 
+Elephant V1.0.2019
 
 ## Developers
 
