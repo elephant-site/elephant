@@ -1,4 +1,4 @@
-# <p><img src="img/3.png" width="5%"/> AppCASE-4Blind  
+# Elephant <p><img src="img/3.png" width="5%"/>
 AppCASE-4Blind V1.0.2018
 App native Android.
   
