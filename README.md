@@ -1,4 +1,4 @@
-# <p><img src="img/3.png" width="25%"/> Elephant 
+# <p><img src="img/3.png" width="15%"/> Elephant 
 Elephant V1.0.2019
 
 ## Developers
