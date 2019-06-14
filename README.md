@@ -1,4 +1,4 @@
-# Elephant V1.0.2019 <img src="img/3.png"/>
+<img src="img/3.png" /> Elephant V1.0.2019 
  
 
 ## Copyright and License
